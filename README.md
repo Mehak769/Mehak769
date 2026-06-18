@@ -74,7 +74,7 @@ class Mehak769:
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Mehak769&theme=tokyonight&background=0D1117&border=0EA5E9&stroke=38BDF8&ring=38BDF8&fire=7DD3FC&currStreakNum=BAE6FD&sideNums=BAE6FD&currStreakLabel=38BDF8&sideLabels=7DD3FC&dates=4B6E8A)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mehak769&theme=tokyonight&background=0D1117&border=0EA5E9&stroke=38BDF8&ring=38BDF8&fire=7DD3FC&currStreakNum=BAE6FD&sideNums=BAE6FD&currStreakLabel=38BDF8&sideLabels=7DD3FC&dates=4B6E8A)
 
 </div>
 
@@ -116,6 +116,6 @@ class Mehak769:
 
 <div align="center">
 
-*"The ocean of data is vast — let's navigate it together."* 🌊
+*"The ocean of data is vast - let's navigate it together."* 🌊
 
 </div>

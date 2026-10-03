@@ -10,7 +10,7 @@
 
   <p align="center">
     <a href="https://github.com/Mehak769?tab=followers"><img src="https://img.shields.io/github/followers/Mehak769?label=Followers&style=flat-square&color=8B5CF6&logo=github" alt="Followers" /></a>
-    <img src="https://komarev.com/ghpvc/?username=Mehak769&style=flat-square&color=EC4899&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://hits.sh/github.com/Mehak769.svg?style=flat-square&label=PROFILE+VIEWS&color=ec4899&extraCount=109" alt="Profile Views" />
     <img src="https://img.shields.io/badge/Status-Building%20AI%20Solutions-6366F1?style=flat-square" alt="Status" />
   </p>
 

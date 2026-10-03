@@ -12,6 +12,7 @@
     <a href="https://github.com/Mehak769?tab=followers"><img src="https://img.shields.io/github/followers/Mehak769?label=Followers&style=flat-square&color=8B5CF6&logo=github" alt="Followers" /></a>
     <img src="https://hits.sh/github.com/Mehak769.svg?style=flat-square&label=PROFILE+VIEWS&color=ec4899&extraCount=109" alt="Profile Views" />
     <img src="https://img.shields.io/badge/Status-Building%20AI%20Solutions-6366F1?style=flat-square" alt="Status" />
+    <a href="https://github.com/Mehak769/Mehak769/blob/main/Mehak_Sharma_Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-View%20PDF-E11D48?style=flat-square&logo=googledocs&logoColor=white" alt="Resume" /></a>
   </p>
 
 </div>
@@ -32,6 +33,7 @@ class Mehak:
 - 🔭 **Current Focus**: Designing intelligent ML pipelines, fine-tuning LLMs, and optimizing model architectures.
 - 🌱 **Learning & Researching**: Scalable MLOps, edge inference, and high-performance computing for AI.
 - 💬 **Ask Me About**: Python, PyTorch, TensorFlow, Hugging Face, Data Science, and Computer Vision.
+- 📄 **Resume / CV**: [Mehak_Sharma_Resume.pdf](https://github.com/Mehak769/Mehak769/blob/main/Mehak_Sharma_Resume.pdf) — *View / Download latest resume*
 - ⚡ **Fun Fact**: *"There are 10 types of people in the world: those who understand neural networks, and those who don't."* 😉
 
 ---
@@ -115,11 +117,15 @@ class Mehak:
 
 <div align="center">
 
+  <a href="https://github.com/Mehak769/Mehak769/blob/main/Mehak_Sharma_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-PDF-E11D48?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
+  </a>
+  &nbsp;
   <a href="https://github.com/Mehak769" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/" target="_blank">
+  <a href="https://linkedin.com/in/mehak-sharma-ml" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
@@ -131,7 +137,7 @@ class Mehak:
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   &nbsp;
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:mehak.sharma@stud.th-deg.de" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
